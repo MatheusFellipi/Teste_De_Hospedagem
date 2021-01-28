@@ -1,0 +1,24 @@
+{
+  "name": "teste_de_hospedagem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusFellipi/Teste_De_Hospedagem.git"
+  },
+  "author": "Mathues Fellipi <47674343+MatheusFellipi@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatheusFellipi/Teste_De_Hospedagem/issues"
+  },
+  "homepage": "https://github.com/MatheusFellipi/Teste_De_Hospedagem#readme",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "description": "",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
